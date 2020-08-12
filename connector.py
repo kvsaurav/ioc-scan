@@ -15,7 +15,7 @@ class HybridAnalysisConnector(object):
 
     def __init__(self, **kwargs):
 
-        self.api_key = 'atgfp8i970f7394bpqfm6sv31e17c459iwzm1k616f7d72dez10arjmdf802dd09'
+        self.api_key = 'use your own fuckin API key'
         self.timestamp = {'_timestamp': int(time.time())}
 
     # action used for quick url scan
