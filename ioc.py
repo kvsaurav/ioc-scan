@@ -22,7 +22,7 @@ from connector import *
 
 from virus_total_apis import PublicApi as VirusTotalPublicApi
 
-API_KEY_VT = 'd7959a3bbf007326c2c60d551af452e64d05b9d9b377241ee73ee2d0a08cf3d3'
+API_KEY_VT = 'ADD YOUR OWN GODAMM KEY'
 
 
 
@@ -161,14 +161,6 @@ elif x==5:
 else:
     print("Invalid input Please give a valid Input")
 
-# import requests, json
-# result =  requests.get("https://www.threatcrowd.org/searchApi/v2/email/report/", 
-# params = {"email": "HEALTHYBLOODPRESSURE.INFO@domainsbyproxy.com"})
-# print result.text
-
-
-# virustotal public api 
-# we are fetching details from virus total public api 
 
 
 # Hybrid analysis public api 
