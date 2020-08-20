@@ -21,3 +21,8 @@ Currently the Open ourced data source used are -
 3. Hybrid-analysis
 
 In future I am willing to add more open-sourced data points for consumption 
+
+Things Currentlyworking on - 
+Clearing the code 
+Parsing the data 
+Structuring Everything
