@@ -12,3 +12,12 @@ INPUT TYPE SUPPORTED
 THIS PROJECT IS IN DEVELOPMENT.
 Great ideas are welcome. 
 FEEL FREE TO OPEN PULL REQUEST. 
+
+
+
+Currently the Open ourced data source used are -
+1. Virustotal
+2. ThreatCrowd
+3. Hybrid-analysis
+
+In future I am willing to add more open-sourced data points for consumption 
