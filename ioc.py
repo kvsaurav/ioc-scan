@@ -77,13 +77,7 @@ if x==1:
 
 	print(json.dumps(response, sort_keys=False, indent=4))
 
-	# ###################################################################################################
 	#hybrid analysis module 
-
-
-
-
-
 
 
 elif x==2:
@@ -99,8 +93,6 @@ elif x==2:
 	vt = VirusTotalPublicApi(API_KEY_VT)
 	response = vt.get_file_report(hash)
 	print(json.dumps(response, sort_keys=False, indent=4))
-
-
 
 
 elif x==3:
@@ -128,8 +120,6 @@ elif x==3:
 	print " HYBRID_ANALYSIS " * 90
 	hybrid= HybridAnalysisConnector().action_search_hash(hash1)
 	pprint.pprint( hybrid)
-
-	
 
 
 elif x==4:
