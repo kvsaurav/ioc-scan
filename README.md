@@ -26,3 +26,5 @@ Things Currentlyworking on -
 Clearing the code 
 Parsing the data 
 Structuring Everything
+
+fUTURE INTEGRATION == INTELX
