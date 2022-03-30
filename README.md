@@ -1,30 +1,30 @@
 Threat scanner
 
-Threat IOC GRAPH CO-RELATION 
+Threat ioc graph co-relation 
 
-THIS PROGRAM WILL TRY TO CO-RELALTE DIFFERENT IOC TYPES FROM OPEN SOURCE AVAILABLE DATA & SERVICES.  
-INPUT TYPE SUPPORTED 
-1. IP
-2. HASH
-3. EMAIL
-4. MALWARE_NAME
+This program will try to co-relalte different ioc types from open source available data & services.  
+Input type supported 
+1. Ip
+2. Hash
+3. Email
+4. Malware_name
 
-THIS PROJECT IS IN DEVELOPMENT.
+This project is in development.
 Great ideas are welcome. 
-FEEL FREE TO OPEN PULL REQUEST. 
+Feel free to open pull request. 
 
 
 
-Currently the Open ourced data source used are -
+Currently the open ourced data source used are -
 1. Virustotal
-2. ThreatCrowd
+2. Threatcrowd
 3. Hybrid-analysis
 
 In future I am willing to add more open-sourced data points for consumption 
 
-Things Currentlyworking on - 
+Things currentlyworking on - 
 Clearing the code 
 Parsing the data 
-Structuring Everything
+Structuring everything
 
-fUTURE INTEGRATION == INTELX
+Future integration == intelx
