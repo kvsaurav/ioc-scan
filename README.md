@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/20131786/179380200-e8127f05-8f10-4fc3-94f2-96a46bc7e3df.png)
-
-
+![Screenshot from 2022-07-16 18-32-40](https://user-images.githubusercontent.com/20131786/179380302-79c0923f-8ee4-4c36-8e60-0c35605a218f.png)
 
 
 
@@ -16,9 +14,9 @@ Input type supported
 3. Email
 4. Malware_name
 
-This project is in development.
-Great ideas are welcome. 
-Feel free to open pull request. 
+>> This project is in development.
+>> Great ideas are welcome. 
+>> Feel free to open pull request. 
 
 
 
