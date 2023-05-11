@@ -2,7 +2,6 @@
 
 
 
-
 A Work in Progreass Threat scanner designed to consolidate open source cyber threats intelligence sources and co-relate them.
 
 Threat ioc graph co-relation 
@@ -17,6 +16,8 @@ Input type supported
 >> This project is in development.
 >> Great ideas are welcome. 
 >> Feel free to open pull request. 
+
+![ioc_graph (1)](https://github.com/kvsaurav/ioc-scan/assets/20131786/578033fc-fe7a-4a90-82ed-51a58f0c818b)
 
 
 
